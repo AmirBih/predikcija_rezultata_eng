@@ -56,7 +56,7 @@ predvidjanje_pobjednika = predvidjanje[0][0]
 
 st.write(f'Rezultat Predviđanja: {predvidjanje_pobjednika:.2f}')
 
-sentimentalnost = "Pobjednik: Domacin" if predvidjanje[0][0] >0.52 else "Pobjednik: Gost" if predvidjanje[0][0] < -0.52 else "Pobjednik Neizvjestan"
+sentimentalnost = "Pobjednik: Domacin" if predvidjanje[0][0] >0.55 else "Pobjednik: Gost" if predvidjanje[0][0] < -0.55 else "Pobjednik Neizvjestan"
 st.write(sentimentalnost)
 
 
