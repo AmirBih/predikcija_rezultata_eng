@@ -1,26 +1,26 @@
 ,Klub,Rezultat
-0,Burnley,1.0
-1,Arsenal,-0.6
-2,Bournemouth,0.8
-3,Brighton,-0.4
-4,Everton,-0.4
+0,Burnley,0.8
+1,Arsenal,-0.4
+2,Bournemouth,0.4
+3,Brighton,0.2
+4,Everton,0.2
 5,Sheffield Utd,1.0
-6,Newcastle,-0.0
-7,Brentford,0.2
-8,Chelsea,-0.4
-9,Man Utd,-0.0
-10,Nottingham Forest,-0.4
+6,Newcastle,-0.2
+7,Brentford,-0.0
+8,Chelsea,-0.0
+9,Man Utd,-0.2
+10,Nottingham Forest,0.2
 11,Fulham,-0.2
-12,Liverpool,-0.0
+12,Liverpool,-0.6
 13,Wolves,1.0
-14,Spurs,0.6
-15,Man City,-0.6
-16,Aston Villa,-0.6
-17,West Ham,-0.2
-18,Crystal Palace,-0.4
+14,Spurs,0.4
+15,Man City,-1.0
+16,Aston Villa,-1.0
+17,West Ham,0.6
+18,Crystal Palace,0.2
 19,Luton,0.8
 20,Ipswich,0.8
 21,Leicester,-0.0
 22,Southampton,0.8
-23,Sunderland,-0.0
-24,Leeds,0.6
+23,Sunderland,-0.2
+24,Leeds,-0.2
